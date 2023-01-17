@@ -10,35 +10,35 @@ namespace Overloading
     {
 
        
-        public string Adi { get; set; }
-        public string Soyadi { get; set; }
-        private int Yas { get; set; }
+        public string Name{ get; set; }
+        public string SUrName { get; set; }
+        private int Age { get; set; }
 
 
         //public void Show()
         //{
-        //    //Adi = "gülsüm";
-        //    //Soyadi = "aslan";
+        //    //Namw = "gülsüm";
+        //    //SurName = "aslan";
            
         //}
 
        
 
 
-        //public void Adi()
+        //public void Name()
         //{
-        //    Adi();
+        //    Name();
 
         //}
 
-        //public void Soyadi()
+        //public void SurName()
         //{
-        //    Soyadi();
+        //    SurName();
         //}
 
-        //private void Yas()
+        //private void Age()
         //{
-        //    Yas();
+        //    Age();
         //}
 
 
