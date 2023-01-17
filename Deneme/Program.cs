@@ -2,7 +2,7 @@
 using System;
 
 
-namespace Deneme
+namespace Exampe
 {
      class Program
     {
@@ -11,8 +11,8 @@ namespace Deneme
 
 
             Students s = new Students();
-            s.Adi = "Mehmet";
-            s.Soyadi = "Aslan";
+            s.Name = "Mehmet";
+            s.SurName= "Aslan";
 
           
 
