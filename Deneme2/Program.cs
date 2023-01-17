@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Deneme2
+namespace Example2
 {
     class Program
     {
@@ -10,10 +10,10 @@ namespace Deneme2
         }
 
     }
-    public class Ogretmen
+    public class Teachers
     {
-        public string Adi { get; set; }
-        public string Soyadi { get; set; }
+        public string Name { get; set; }
+        public string SurName { get; set; }
 
 
     }
